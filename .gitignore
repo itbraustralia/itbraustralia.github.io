@@ -11,3 +11,4 @@ node_modules
 neat/
 bourbon/
 npm-debug.log
+Gemfile.lock
