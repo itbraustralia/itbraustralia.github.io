@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "FAQ - Perguntas frequentes"
+summary: Juntando algumas das perguntas que mais nos fazem. Quem sabe não pode ser útil para você também?
 featured-img: faq
+categories: Perguntas
 ---
 
 > Juntando algumas das perguntas que mais nos fazem. Quem sabe não pode ser útil para você também?

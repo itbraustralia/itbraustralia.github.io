@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Perguntas sobre imigração"
+summary: Ajudando os brasileiros com algumas das informações sobre imigração
 featured-img: imigracao-australia
+categories: Perguntas
 ---
 
 > Ajudando os brasileiros com algumas das informações sobre imigração

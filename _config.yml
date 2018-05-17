@@ -12,16 +12,24 @@ social:
     - https://www.facebook.com/itbraustralia
     - https://github.com/itbraustralia
 
+service_worker: true
+
 # Build settings
 markdown: kramdown
 highlighter: rouge # or pygments or null
 theme: jekyll-sleek
 exclude:
   - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
   - Gemfile
   - Gemfile.lock
   - vendor
-  - sleek.png
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
 
 include: ['_pages']
 permalink: /:title/

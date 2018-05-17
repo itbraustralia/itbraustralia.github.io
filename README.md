@@ -29,12 +29,13 @@ git clone git@github.com:itbraustralia/itbraustralia.github.io.git
 - Acesse a página do blog. Ele deve estar listado como um dos nossos posts;
 - Atualize o conteúdo e atualize o navegador;
 
+
 ### E quanto às imagens?
 
 Para as images você precisa criar:
 
 - `<nome-da-imagem>.jpg`: imagem padrão;
-- `<nome-da-imagem>_placeholder.jpg`: imagem para ser carregada inicialmente. Como usamos lazy load para as imagens, esta imagem é necessária. Caso esteja em dúvida, copie a imagem `<nome-da-imagem>.jpg` e mude o nome para este padrão;
+- `<nome-da-imagem>_placehold.jpg`: imagem para ser carregada inicialmente. Como usamos lazy load para as imagens, esta imagem é necessária. Caso esteja em dúvida, copie a imagem `<nome-da-imagem>.jpg` e mude o nome para este padrão;
 - `<nome-da-imagem>_thumb@2x.jpg`: imagem com resolução para macOS; 
 
 
