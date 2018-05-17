@@ -1,5 +1,6 @@
 ---
 layout: post
+date: "2018-05-17T12:51:06-03:00"
 title: "FAQ - Perguntas frequentes"
 summary: Juntando algumas das perguntas que mais nos fazem. Quem sabe não pode ser útil para você também?
 featured-img: faq
