@@ -17,9 +17,9 @@
   <div class="post-card__inner">
     <div class="post-card__header">
       <h2>{{ post.title | strip_html | truncate: 50 }}</h2>
-      {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}
+      {% assign date_format = site.sleek.date_format | default: "%d/%m/%Y" %}
       <span class="post-card__meta">
-        <time>{{ post.date | date: date_format }}</time>
+        <time>{{ post.date | date: "%d/%m/%Y" }}</time>
       </span>
     </div>
     {% if post.summary %}
