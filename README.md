@@ -25,7 +25,7 @@ git clone git@github.com:itbraustralia/itbraustralia.github.io.git
 
 ## Criando um post
 
-- Crie um novo markdown baseado no arquivo `post-example.md`. Este arquivo precisa estar no formato `<ano-mes-dia-url>.md`
+- Crie um novo markdown baseado no arquivo `_post-example`. Este arquivo precisa estar no formato `<ano-mes-dia-url>.md`
 - Copie o arquivo para dentro da pasta `_posts`;
 - Acesse a página do blog. Ele deve estar listado como um dos nossos posts;
 - Atualize o conteúdo e atualize o navegador;
