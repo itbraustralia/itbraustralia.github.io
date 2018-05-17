@@ -1,0 +1,34 @@
+title: IT.BR Australia # your site title
+author: IT.BR Australia
+email: your-email@domain.com # email for form submission, you also have to change it in _js/scripts.js
+description: > # this means to ignore newlines until "baseurl:"
+  Site da comunidade de brasileiros que trabalham com IT na Australia
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://itbraustralia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  itbraustralia # replace with your_github_username or comment to remove link from footer
+social:
+  name: IT.BR Australia
+  links:
+    - https://www.facebook.com/itbraustralia
+    - https://github.com/itbraustralia
+
+# Build settings
+markdown: kramdown
+highlighter: rouge # or pygments or null
+theme: jekyll-sleek
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - sleek.png
+
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

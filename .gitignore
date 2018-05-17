@@ -1,0 +1,13 @@
+**/*.{swp,swo}
+_site
+.DS_Store
+node_modules
+.bundle/
+.ruby-version
+.node-version
+.sass-cache/
+.jekyll-metadata
+.rvmrc
+neat/
+bourbon/
+npm-debug.log
