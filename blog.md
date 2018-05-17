@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: blog
-title: Sleek Jekyll Theme
+title: IT.BR Australia
 ---
