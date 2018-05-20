@@ -2,7 +2,7 @@
 layout: post
 date: "2018-05-20T09:10:51:06-03:00"
 title: "Links e Comunidades"
-summary: Juntando todas as comunidades técnicas do ITBR .Venha fazer parte da família ITBR Austrália
+summary: Juntando todas as comunidades técnicas do IT.BR .Venha fazer parte da família IT.BR Austrália
 featured-img: community
 categories: Comunidade
 ---
@@ -10,17 +10,17 @@ categories: Comunidade
 > # Lstamos todas as opções de comunidade para quem quer iteragir com os profissionais de TI na Austrália
 
 
-[ITBR Facebook Page](https://www.facebook.com/itbraustralia/)
+[IT.BR Facebook Page](https://www.facebook.com/itbraustralia/)
 
-[ITBR Youtube Channel](https://www.youtube.com/channel/UC82vsPSbjK4yEy_UdKZ8wVg/)
+[IT.BR Youtube Channel](https://www.youtube.com/channel/UC82vsPSbjK4yEy_UdKZ8wVg/)
 
-[ITBR Facebook Group](https://www.facebook.com/groups/itbraustralia/)
+[IT.BR Facebook Group](https://www.facebook.com/groups/itbraustralia/)
 
 [Profissionais de IT na Australia Facebook Group](https://web.facebook.com/groups/pitSydney/)
 
 ### Grupos de whatsapp
 
-* Grupo geral de It Australia - foco em vistos, parthways , escolas , empregos em TI e afins:   [ITBR Australia](https://chat.whatsapp.com/7MaIqbunbhm2iCojSmozag)
+* Grupo geral de It Australia - foco em vistos, parthways , escolas , empregos em TI e afins:   [IT.BR Australia](https://chat.whatsapp.com/7MaIqbunbhm2iCojSmozag)
 
 Grupos de tecnologias especificas ou assuntos específicos:
 
