@@ -7,7 +7,7 @@ featured-img: community
 categories: Comunidade
 ---
 
-> # Lstamos todas as opções de comunidade para quem quer iteragir com os profissionais de TI na Austrália
+> Listamos todas as opções de comunidade para quem quer iteragir com os profissionais de TI na Austrália
 
 
 [IT.BR Facebook Page](https://www.facebook.com/itbraustralia/)
@@ -18,9 +18,11 @@ categories: Comunidade
 
 [Profissionais de IT na Australia Facebook Group](https://web.facebook.com/groups/pitSydney/)
 
+
 ### Grupos de whatsapp
 
-* Grupo geral de It Australia - foco em vistos, parthways , escolas , empregos em TI e afins:   [IT.BR Australia](https://chat.whatsapp.com/7MaIqbunbhm2iCojSmozag)
+* Grupo geral de It Australia - foco em vistos, parthways, escolas, empregos em TI e afins: [IT.BR Australia](https://chat.whatsapp.com/7MaIqbunbhm2iCojSmozag)
+
 
 Grupos de tecnologias especificas ou assuntos específicos:
 
@@ -53,5 +55,6 @@ Grupos de tecnologias especificas ou assuntos específicos:
 * [PHP - IT.BR Australia](https://chat.whatsapp.com/4OBhUXw8LfGBk0tGIMojD2)
 
 * [Python - IT.BR Australia](https://chat.whatsapp.com/4ff2faMJFDfDkHvrXb3wWP)
+
 
 Caso não tenha encontrato alguma área específica nas nossas comunidades, entre em contato conosco e crie seu grupo.
