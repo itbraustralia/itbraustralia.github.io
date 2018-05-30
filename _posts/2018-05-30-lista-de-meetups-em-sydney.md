@@ -3,7 +3,7 @@ layout: post
 date: "2018-05-30T10:10:00-03:00"
 title: "Lista das melhores Meetups de I.T. em Sydney"
 summary: Encontre as melhores meetups de Sydney para aumentar o conhecimento e network
-featured-img: community
+featured-img: meetup
 categories: Comunidade
 ---
 
