@@ -4,7 +4,7 @@ email: admin@itbr.com.au # email for form submission, you also have to change it
 description: > # this means to ignore newlines until "baseurl:"
   Site da comunidade de brasileiros que trabalham com IT na Australia
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://itbraustralia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://itbr.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  itbraustralia # replace with your_github_username or comment to remove link from footer
 social:
   name: IT.BR Australia
