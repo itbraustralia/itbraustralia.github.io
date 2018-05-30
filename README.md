@@ -15,12 +15,10 @@
 
 Para rodar esta página na sua máquina, siga estas etapas:
 
-- Clone este repositório
+- Clone este repositório (git clone git@github.com:itbraustralia/itbraustralia.github.io.git)
 - Acesse a pasta gerada
-- Execute o comando `bundle`
-- Execute `jekyll serve` ou `jekyll serve -w`
-
-git clone git@github.com:itbraustralia/itbraustralia.github.io.git
+- Execute o comando `./script/bootstrap`
+- Execute `./script/server` ou `jekyll serve -w`
 
 
 ## Criando um post
