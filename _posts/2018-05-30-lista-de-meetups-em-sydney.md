@@ -34,5 +34,6 @@ categories: Comunidade
 * [The Sydney F-Enders: Building Front End Together](https://www.meetup.com/en-AU/f-enders-sydney/)
 * [WordPress Sydney](https://www.meetup.com/en-AU/WordPress-Sydney/)
 * [Node Girls Sydney](https://www.meetup.com/en-AU/Node-Girls-Sydney/)
+* [Women Who Code Sydney](https://www.meetup.com/en-AU/Women-Who-Code-Sydney/)
 
 Caso você conheça uma Meetup que não consta nesta lista, edite este post no [github.com/itbraustralia/itbraustralia](https://github.com/itbraustralia/itbraustralia.github.io/blob/master/_posts/2018-05-30-lista-de-meetups-em-sydney.md) e mande uma PR pra gente.
