@@ -15,8 +15,11 @@ OU
 - [Docker](https://www.docker.com/)
 - [docker-compose](https://docs.docker.com/compose/)
 
+
 ## Como usar
 
+
+### Local Setup
 Para rodar esta página na sua máquina, siga estas etapas:
 
 - Clone este repositório (git clone git@github.com:itbraustralia/itbraustralia.github.io.git)
@@ -25,7 +28,7 @@ Para rodar esta página na sua máquina, siga estas etapas:
 - Execute `./script/server` ou `jekyll serve -w`
 
 
-## Como usar (docker)
+### Setup usando Docker
 
 Para rodar esta página tendo Docker instalado em sua máquina, siga estas etapas:
 
@@ -35,6 +38,7 @@ Para rodar esta página tendo Docker instalado em sua máquina, siga estas etapa
 - Accesse `http://localhost:4000/`
 
 * Se você quiser cachear a instalação das customs gems, crie um volume no docker do seu ruby local para `/usr/local/bundle`
+
 
 ## Criando um post
 
