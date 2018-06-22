@@ -18,6 +18,9 @@ categories: Comunidade
 
 [Profissionais de IT na Australia Facebook Group](https://web.facebook.com/groups/pitSydney/)
 
+### Grupos de amigos (não vinculados com IT.BR)
+* [Imigração Australia - Facebook Group - Vistos e Imigração para a Australia em geral](https://www.facebook.com/groups/imigracaoaustralia/)
+
 
 ### Grupos de whatsapp
 
