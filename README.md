@@ -10,17 +10,34 @@
 - [Ruby](http://www.ruby-lang.org/pt/downloads/);
 - [Jekyll](http://jekyllrb.com/);
 
+OU
+
+- [Docker](https://www.docker.com/)
+- [docker-compose](https://docs.docker.com/compose/)
+
 
 ## Como usar
 
+
+### Local Setup
 Para rodar esta página na sua máquina, siga estas etapas:
 
-- Clone este repositório
+- Clone este repositório (git clone git@github.com:itbraustralia/itbraustralia.github.io.git)
 - Acesse a pasta gerada
-- Execute o comando `bundle`
-- Execute `jekyll serve` ou `jekyll serve -w`
+- Execute o comando `./script/bootstrap`
+- Execute `./script/server` ou `jekyll serve -w`
 
-git clone git@github.com:itbraustralia/itbraustralia.github.io.git
+
+### Setup usando Docker
+
+Para rodar esta página tendo Docker instalado em sua máquina, siga estas etapas:
+
+- Clone este repositório (git clone git@github.com:itbraustralia/itbraustralia.github.io.git)
+- Acesse a pasta gerada
+- Execute o comando `docker-compose up`
+- Accesse `http://localhost:4000/`
+
+* Se você quiser cachear a instalação das customs gems, crie um volume no docker do seu ruby local para `/usr/local/bundle`
 
 
 ## Criando um post
@@ -37,7 +54,8 @@ Para as images você precisa criar:
 
 - `<nome-da-imagem>.jpg`: imagem padrão;
 - `<nome-da-imagem>_placehold.jpg`: imagem para ser carregada inicialmente. Como usamos lazy load para as imagens, esta imagem é necessária. Caso esteja em dúvida, copie a imagem `<nome-da-imagem>.jpg` e mude o nome para este padrão;
-- `<nome-da-imagem>_thumb@2x.jpg`: imagem com resolução para macOS; 
+- `<nome-da-imagem>_thumb.jpg`: imagem com resolução para thumbnails para computadores sem telas de retina. Caso esteja em dúvida, copie a imagem `<nome-da-imagem>.jpg` e mude o nome para este padrão; 
+- `<nome-da-imagem>_thumb@2x.jpg`: imagem com resolução para macOS. Caso esteja em dúvida, copie a imagem `<nome-da-imagem>.jpg` e mude o nome para este padrão;
 
 
 ## Como contribuir
