@@ -11,6 +11,7 @@ categories: Comunidade
 
 * [Agile / Scaled Agile Framework (SAFe) Meet ups](https://www.meetup.com/en-AU/Agile-Meet-ups/)
 * [Agile Sydney User Group](https://www.meetup.com/en-AU/Agile-Sydney/)
+* [Alt.NET Sydney](https://www.meetup.com/en-AU/Sydney-Alt-Net/)
 * [Azure Sydney User Group](https://www.meetup.com/en-AU/Azure-Sydney-User-Group/)
 * [GDG Sydney](https://www.meetup.com/en-AU/gdgsydney/)
 * [IT.BR AUSTRALIA](http://itbr.com.au/)
