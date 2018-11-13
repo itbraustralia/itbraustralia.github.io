@@ -29,6 +29,8 @@ categories: Comunidade
 
 Grupos de tecnologias especificas ou assuntos específicos:
 
+* [Women in Tech](https://chat.whatsapp.com/IP6R64izSlVDlbl8QHJTa2)
+
 * [Java - IT.BR Australia](https://chat.whatsapp.com/L8hM3VHW4Ts7dcW0tsWtR6)
 
 * [.NET - IT.BR Australia](https://chat.whatsapp.com/0AFCBqOzmiKGfEeIAmXas6)
