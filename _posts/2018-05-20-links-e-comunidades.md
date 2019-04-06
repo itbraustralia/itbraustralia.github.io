@@ -29,7 +29,7 @@ categories: Comunidade
 
 Grupos de tecnologias especificas ou assuntos específicos:
 
-* [Women in Tech](https://chat.whatsapp.com/IP6R64izSlVDlbl8QHJTa2)
+* [Women in Tech - IT.BR Australia](https://chat.whatsapp.com/IP6R64izSlVDlbl8QHJTa2)
 
 * [Java - IT.BR Australia](https://chat.whatsapp.com/L8hM3VHW4Ts7dcW0tsWtR6)
 
@@ -61,5 +61,20 @@ Grupos de tecnologias especificas ou assuntos específicos:
 
 * [Python - IT.BR Australia](https://chat.whatsapp.com/4ff2faMJFDfDkHvrXb3wWP)
 
+* [Machine Learning - IT.BR Australia](https://chat.whatsapp.com/F8Guaco3uMK6Gtwhqr9B1w)
+
+Grupos de Cidades
+
+* [Melbourne - IT.BR Australia](https://chat.whatsapp.com/BCLidRBMWDg5ol8xgLnmNE)
+
+* [Brisbane - Brazucas de TI em Brisbane](https://chat.whatsapp.com/Iz7ZEIXoDINJVvDzZLzTZM)
+
+* [Gold Coast - IT.BR Australia](https://chat.whatsapp.com/IOaUP4otZ2W0avHjC6wdG3)
+
+Outros Grupos
+
+* [Investimentos - IT.BR Australia](https://chat.whatsapp.com/AHCx7avPUC7K5Nb9dXPLBJ)
+
+* [Off-Topic - IT.BR Australia](https://chat.whatsapp.com/AjXQXDJ7NXKKootbNvCPDU)
 
 Caso não tenha encontrato alguma área específica nas nossas comunidades, entre em contato conosco e crie seu grupo.
