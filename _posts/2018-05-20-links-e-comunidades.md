@@ -67,9 +67,11 @@ Grupos de Cidades
 
 * [Melbourne - IT.BR Australia](https://chat.whatsapp.com/BCLidRBMWDg5ol8xgLnmNE)
 
-* [Brisbane - Brazucas de TI em Brisbane](https://chat.whatsapp.com/Iz7ZEIXoDINJVvDzZLzTZM)
+* [Brisbane - ITB.BR Australia](ttps://chat.whatsapp.com/GYfx4PTgSLFIRr7cnHkPZ1)
 
 * [Gold Coast - IT.BR Australia](https://chat.whatsapp.com/IOaUP4otZ2W0avHjC6wdG3)
+
+* [Adelaide - IT.BR Australia](https://chat.whatsapp.com/BVXUKyq3tSBI2DHvHWqelj)
 
 Outros Grupos
 
