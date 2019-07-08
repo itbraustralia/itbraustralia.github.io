@@ -67,7 +67,7 @@ Grupos de Cidades
 
 * [Melbourne - IT.BR Australia](https://chat.whatsapp.com/BCLidRBMWDg5ol8xgLnmNE)
 
-* [Brisbane - ITB.BR Australia](ttps://chat.whatsapp.com/GYfx4PTgSLFIRr7cnHkPZ1)
+* [Brisbane - ITB.BR Australia](https://chat.whatsapp.com/GYfx4PTgSLFIRr7cnHkPZ1)
 
 * [Gold Coast - IT.BR Australia](https://chat.whatsapp.com/IOaUP4otZ2W0avHjC6wdG3)
 
