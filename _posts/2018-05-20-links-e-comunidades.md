@@ -65,7 +65,7 @@ Grupos de tecnologias especificas ou assuntos específicos:
 
 Grupos de Cidades
 
-* [Melbourne - IT.BR Australia](https://chat.whatsapp.com/BCLidRBMWDg5ol8xgLnmNE)
+* [Melbourne - IT.BR Australia](https://chat.whatsapp.com/G8mWexGF1jU558rfUjUnrt)
 
 * [(Telegram) Melbourne - IT.BR Australia](https://t.me/joinchat/KKcr2xSQCMdUouJyrfJCpg)
 
