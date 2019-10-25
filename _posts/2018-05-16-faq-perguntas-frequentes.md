@@ -46,9 +46,9 @@ Sao empresas que te dao o [visto 457](https://www.border.gov.au/Trav/Visa-1/457-
 
 #### Ouvi alguma coisa sobre encerrar o ceiling antes de junho, onde posso ver isso?
 
-No site do [skill select](http://www.border.gov.au/Trav/Work/Skil) tem duas abas com os **Invitation Rounds** e os **Occupation Ceilings**
+No site do [skill select](https://www.border.gov.au/Trav/Work/Skil) tem duas abas com os **Invitation Rounds** e os **Occupation Ceilings**
 
-De acordo com o [site](http://www.border.gov.au/Lega/Lega/Form/Immi-FAQs/what-is-an-occupation-ceiling):
+De acordo com o [site](https://www.border.gov.au/Lega/Lega/Form/Immi-FAQs/what-is-an-occupation-ceiling):
 
 > An occupation ceiling is a limit on the number of invitations that can be issued through SkillSelect each year.
 > 
@@ -66,8 +66,8 @@ Portanto, e’ sempre bom ficar ligado nessa lista tambem..
 
 Essa e’ uma pergunta comum e pode ser respondida verificando os sites:  
 [www.seek.com.au  
-](http://www.seek.com.au)[www.indeed.com.au  
-](http://www.indeed.com.au)alem destes, e’ muito importante ter seu [LinkedIn](http://www.linkedin.com) atualizado e em INGLES!
+](https://www.seek.com.au)[www.indeed.com.au  
+](https://www.indeed.com.au)alem destes, e’ muito importante ter seu [LinkedIn](https://www.linkedin.com) atualizado e em INGLES!
 
 #### Alguém sabe algum bom curso de Java online free ou pago ??
 
@@ -82,4 +82,4 @@ A menos que contenha alguma data nele (tipo carteira de motorista ou passaporte)
 **Ganhei meu PR!! posso ficar relaxado quanto ao visto pro resto da vida???**
 
 SIM e NAO! o visto de residente permanente te permite ficar dentro da Australia sim, mas sair e voltar, somente durante os 5 primeiros anos.. se voce nao foi atras de obter a Cidadania, e deseja viajar pra fora do pais depois de passados os 5 anos, voce precisa solicitar o visto 155 ou 157 para poder retornar a Australia.  
-voce consegue ler sobre isso [aqui (pagina oficial)](https://www.border.gov.au/Trav/Visa-1/155-) ou [aqui (pagina nao oficial)](http://myaccessaustralia.com/australian-permanent-residency-subclass-155-resident-return-visas-rrv/)
+voce consegue ler sobre isso [aqui (pagina oficial)](https://www.border.gov.au/Trav/Visa-1/155-) ou [aqui (pagina nao oficial)](https://myaccessaustralia.com/australian-permanent-residency-subclass-155-resident-return-visas-rrv/)

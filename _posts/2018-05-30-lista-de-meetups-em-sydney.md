@@ -14,7 +14,7 @@ categories: Comunidade
 * [Alt.NET Sydney](https://www.meetup.com/en-AU/Sydney-Alt-Net/)
 * [Azure Sydney User Group](https://www.meetup.com/en-AU/Azure-Sydney-User-Group/)
 * [GDG Sydney](https://www.meetup.com/en-AU/gdgsydney/)
-* [IT.BR AUSTRALIA](http://itbr.com.au/)
+* [IT.BR AUSTRALIA](https://itbr.com.au/)
 * [ITPA (Information Technology Professionals Association) NSW](https://www.meetup.com/en-AU/ITPA-NSW/)
 * [ng-sydney - Angular & Full Stack Web Development](https://www.meetup.com/en-AU/ng-sydney/)
 * [Node Sydney](https://www.meetup.com/en-AU/node-sydney/)

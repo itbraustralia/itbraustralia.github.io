@@ -6,9 +6,9 @@
 
 ## Pré-requisitos
 
-- [Git](http://git-scm.com/downloads);
-- [Ruby](http://www.ruby-lang.org/pt/downloads/);
-- [Jekyll](http://jekyllrb.com/);
+- [Git](https://git-scm.com/downloads);
+- [Ruby](https://www.ruby-lang.org/pt/downloads/);
+- [Jekyll](https://jekyllrb.com/);
 
 OU
 
@@ -35,7 +35,7 @@ Para rodar esta página tendo Docker instalado em sua máquina, siga estas etapa
 - Clone este repositório (git clone git@github.com:itbraustralia/itbraustralia.github.io.git)
 - Acesse a pasta gerada
 - Execute o comando `docker-compose up`
-- Accesse `http://localhost:4000/`
+- Accesse `https://localhost:4000/`
 
 * Se você quiser cachear a instalação das customs gems, crie um volume no docker do seu ruby local para `/usr/local/bundle`
 

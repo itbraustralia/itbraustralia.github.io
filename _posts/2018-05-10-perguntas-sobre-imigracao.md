@@ -11,20 +11,20 @@ categories: Perguntas
 
 ## Trabalho com TI a XX anos.. sou formado e quero imigrar pra australia pq vi que TI esta na lista de demanda! como eu faco?
 
-Primeiro de tudo: entra no site do [http://www.immi.gov.au](http://www.immi.gov.au) e leia sobre visto **[189](https://www.border.gov.au/Trav/Visa-1/189-)** e **[190](https://www.border.gov.au/Trav/Visa-1/190-)**!A lista de [2017/2018 é esta](https://www.border.gov.au/Trav/Work/Work/Skills-assessment-and-assessing-authorities/skilled-occupations-lists) e nesse site tem para todos os vistos!  
+Primeiro de tudo: entra no site do [https://www.immi.gov.au](https://www.immi.gov.au) e leia sobre visto **[189](https://www.border.gov.au/Trav/Visa-1/189-)** e **[190](https://www.border.gov.au/Trav/Visa-1/190-)**!A lista de [2017/2018 é esta](https://www.border.gov.au/Trav/Work/Work/Skills-assessment-and-assessing-authorities/skilled-occupations-lists) e nesse site tem para todos os vistos!  
 Algumas profissoes estao em demanda somente em **alguns** estados.. entao voce pode achar mais informacoes diretamente no site de cada estado!!  
-[NSW](http://www.industry.nsw.gov.au/live-and-work-in-nsw/visas-and-immigration/skilled-nominated-migration-190) – [VIC](http://www.liveinvictoria.vic.gov.au/visas-and-immigrating/skilled-visas/skilled-nominated-visa-subclass-190) – [QLD](https://migration.qld.gov.au/skilled-visa-options/im-offshore-interstate/) – [WA](http://www.migration.wa.gov.au/services/skilled-migration-wa) – [SA](http://www.migration.sa.gov.au/skilled-migrants)  
+[NSW](https://www.industry.nsw.gov.au/live-and-work-in-nsw/visas-and-immigration/skilled-nominated-migration-190) – [VIC](https://www.liveinvictoria.vic.gov.au/visas-and-immigrating/skilled-visas/skilled-nominated-visa-subclass-190) – [QLD](https://migration.qld.gov.au/skilled-visa-options/im-offshore-interstate/) – [WA](https://www.migration.wa.gov.au/services/skilled-migration-wa) – [SA](https://www.migration.sa.gov.au/skilled-migrants)  
 Dica, tente guardar na memoria o numero ANZSCO da sua profissao! fica mais facil de achar com o ctrl+F
 
 ## Pelo que li, o Skilled Visa e’ baseado em pontos! como eu faco pra saber quantos pontos eu tenho??
 
-[Esse site é o oficial](https://www.border.gov.au/Trav/Visa-1/189-?modal=/visas/supporting/Pages/skilled/the-points-table.aspx) (va’ na **aba points test**), mas voce pode ver [nesse site](http://www.visabureau.com/australia/immigration-points-test.aspx) tambem.
+[Esse site é o oficial](https://www.border.gov.au/Trav/Visa-1/189-?modal=/visas/supporting/Pages/skilled/the-points-table.aspx) (va’ na **aba points test**), mas voce pode ver [nesse site](https://www.visabureau.com/australia/immigration-points-test.aspx) tambem.
 
 ## Legal, parece que tenho os 60 pontos minimos pra aplicar! o que eu faco agora??
 
 – Voce precisa validar sua universidade e experiencia profissional com a ACS!  
 – Voce precisa fazer o teste de ingles: IELTS – PTE – TOEFL.. tem isso no site da immi! muita gente tem feito o PTE dizendo ser mais facil.. o formato da prova eh diferente do IELTS.. tem gente que curte mais um ou o outro.. o melhor e’ pesquisar sobre o dois e ver qual voce mais se adapta!  
-– Tendo a validacao da ACS e a nota da prova em maos, veja se os pontos ainda sao suficientes. se for, voce deve aplicar para o **[EOI](http://www.border.gov.au/Trav/Work/Skil)** [**aqui**](http://www.border.gov.au/Trav/Work/Skil)**.** Obviamente voce deve ler tudo que tem nessa pagina!  
+– Tendo a validacao da ACS e a nota da prova em maos, veja se os pontos ainda sao suficientes. se for, voce deve aplicar para o **[EOI](https://www.border.gov.au/Trav/Work/Skil)** [**aqui**](https://www.border.gov.au/Trav/Work/Skil)**.** Obviamente voce deve ler tudo que tem nessa pagina!  
 – Apos aplicar para o EOI, voce deve…. sentar e esperar! quanto mais pontos voce tiver, mais rapido voce sera’ chamado! Ao ser chamado, voce deve [juntar toda sua documentacao](https://www.border.gov.au/Trav/Visa/Info) e submeter para a imigracao validar!
 
 ## Como faco para ter certeza que minha faculdade no Brasil e’ reconhecida na Australia?
@@ -73,4 +73,4 @@ Por outro lado, as profissoes que estao na lista Medium and Long-term, te dao di
 importante ressaltar que se voce trabalhar 2 anos numa empresa, e depois vai pra outra, voce nao acumula o tempo! voce vai precisar acumular os 3 anos em uma so’ empresa!
 
 Agora tambem existe a solicitacao de conseguir um score de 6 no IELTS (ou equivalente de outro exame)  
-Todas essas informacoes podem ser consultadas no [site oficial da Border.](http://www.border.gov.au/Trav/Work/Work/Skills-assessment-and-assessing-authorities/skilled-occupations-lists)
+Todas essas informacoes podem ser consultadas no [site oficial da Border.](https://www.border.gov.au/Trav/Work/Work/Skills-assessment-and-assessing-authorities/skilled-occupations-lists)
