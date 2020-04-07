@@ -33,7 +33,7 @@ Grupos de tecnologias especificas ou assuntos específicos:
 
 * [Java - IT.BR Australia](https://chat.whatsapp.com/L8hM3VHW4Ts7dcW0tsWtR6)
 
-* [.NET - IT.BR Australia](https://chat.whatsapp.com/0AFCBqOzmiKGfEeIAmXas6)
+* [.NET - IT.BR Australia](https://chat.whatsapp.com/E5ehbCXLmya5kGnoaVfVA9)
 
 * [JavaScript - IT.BR Australia](https://chat.whatsapp.com/7cO4r4Jizbh1tOzpu6xpav) 
 
