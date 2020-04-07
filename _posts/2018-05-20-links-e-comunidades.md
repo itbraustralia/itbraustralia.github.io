@@ -51,7 +51,7 @@ Grupos de tecnologias especificas ou assuntos específicos:
 
 * [BA / PM / QA - IT.BR Australia](https://chat.whatsapp.com/38i1sKdtYWKF7J0dtaUSUY)
 
-* [Infra - IT.BR Australia](https://chat.whatsapp.com/2lRWqYB2uJGEwilVW6ozEq)
+* [Infra - IT.BR Australia](https://chat.whatsapp.com/FIUmwx9SNbjKDSb7ZxEUqF)
 
 * [DataBase Specialists - IT.BR Australia](https://chat.whatsapp.com/invite/LHdyIUVwfmi70bCI4IYgqp)
 
