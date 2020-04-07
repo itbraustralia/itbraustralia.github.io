@@ -35,7 +35,7 @@ Grupos de tecnologias especificas ou assuntos específicos:
 
 * [.NET - IT.BR Australia](https://chat.whatsapp.com/E5ehbCXLmya5kGnoaVfVA9)
 
-* [JavaScript - IT.BR Australia](https://chat.whatsapp.com/7cO4r4Jizbh1tOzpu6xpav) 
+* [JavaScript - IT.BR Australia](https://chat.whatsapp.com/LNwYLc8N8hiAo6QNzsfQIS) 
 
 * [FrontEnd - IT.BR Australia](https://chat.whatsapp.com/HHOdEexDMbsE0FcWnxzzw3)
 
